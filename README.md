@@ -22,9 +22,16 @@ The goal of this repository is to provide developers with:
 
 ## 📖 Available Documentation
 
-- [`comprehensive-typescript-monorepo-initiator.md`](./comprehensive-typescript-monorepo-initiator.md) - Complete TypeScript monorepo setup with Husky, Prettier, ESLint, testing, Docker, CI/CD, and more
+### Monorepo Setup
+- [`comprehensive-typescript-monorepo-initiator.md`](./comprehensive-typescript-monorepo-initiator.md) - Complete TypeScript monorepo setup with Husky, Prettier, ESLint, Vitest, Playwright, Docker, GitHub Actions, and more
 - [`simple-monorepo-blueprint.md`](./simple-monorepo-blueprint.md) - Simplified monorepo structure for quick starts
 - [`comprehensive-monorepo-blueprint.md`](./comprehensive-monorepo-blueprint.md) - Detailed monorepo architecture patterns
+
+### Frontend Development
+- [`comprehensive-frontend-blueprint.md`](./comprehensive-frontend-blueprint.md) - Complete frontend setup guide supporting React, Vue, Svelte, and more with state management, routing, styling, forms, API integration, and testing
+
+### Backend Development
+- [`comprehensive-backend-blueprint.md`](./comprehensive-backend-blueprint.md) - Complete backend setup guide supporting Express, Fastify, Hono, NestJS with database integration, authentication, API documentation, caching, background jobs, and deployment
 
 ## 🤝 Contributing
 
